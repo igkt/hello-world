@@ -7,3 +7,4 @@ hello-world
 
 - [ ] Pull request
 - [ ] issue
+- [ ] Project
